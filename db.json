@@ -15,7 +15,7 @@
         "predict": 45, 
         "program": "MS in Computer Science", 
         "sno": 2, 
-        "status": "Awaiting Documents", 
+        "status": "Application Complete", 
         "university": "University of Florida"
       }, 
       {
@@ -24,7 +24,7 @@
         "predict": 57, 
         "program": "MS in Computer Science", 
         "sno": 3, 
-        "status": "Pending Review", 
+        "status": "Application Complete", 
         "university": "University of Texas at Dallas"
       }, 
       {
@@ -60,7 +60,7 @@
         "predict": 77, 
         "program": "MS in Computer Science", 
         "sno": 7, 
-        "status": "Submitted", 
+        "status": "Review", 
         "university": "University of North Carolina, Charlotte"
       }, 
       {
@@ -69,8 +69,17 @@
         "predict": 87, 
         "program": "MS in Computer Science", 
         "sno": 8, 
-        "status": "Awaiting Documents", 
+        "status": "Application Complete", 
         "university": "Clemson University"
+      },
+      {
+        "concentration": "Intelligent Systems and Robotics", 
+        "coursefee": "-", 
+        "predict": -1, 
+        "program": "MS in Computer Science", 
+        "sno": 9, 
+        "status": "Submitted", 
+        "university": "University of Texas at Arlington"
       }
   ]
 }
