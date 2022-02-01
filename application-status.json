@@ -1,0 +1,76 @@
+{
+  "applicationsList": [
+      {
+        "concentration": "-", 
+        "coursefee": "-", 
+        "predict": 60, 
+        "program": "MS in Artificial Intelligence", 
+        "sno": 1, 
+        "status": "Submitted", 
+        "university": "NorthEastern University"
+      }, 
+      {
+        "concentration": "AI/ML", 
+        "coursefee": "-", 
+        "predict": 45, 
+        "program": "MS in Computer Science", 
+        "sno": 2, 
+        "status": "Awaiting Documents", 
+        "university": "University of Florida"
+      }, 
+      {
+        "concentration": "Intelligent Systems", 
+        "coursefee": "-", 
+        "predict": 57, 
+        "program": "MS in Computer Science", 
+        "sno": 3, 
+        "status": "Pending Review", 
+        "university": "University of Texas at Dallas"
+      }, 
+      {
+        "concentration": "-", 
+        "coursefee": "-", 
+        "predict": 84, 
+        "program": "MS in Artificial Intelligence", 
+        "sno": 4, 
+        "status": "Departmental Review", 
+        "university": "University at Buffalo"
+      }, 
+      {
+        "concentration": "-", 
+        "coursefee": "-", 
+        "predict": 45, 
+        "program": "MS in Computer Science", 
+        "sno": 5, 
+        "status": "Pending Review", 
+        "university": "University of South Florida"
+      }, 
+      {
+        "concentration": "Data Analytics", 
+        "coursefee": "-", 
+        "predict": 67, 
+        "program": "MS in Computer Science", 
+        "sno": 6, 
+        "status": "Awaiting Documents", 
+        "university": "University of Houston"
+      }, 
+      {
+        "concentration": "AI, Robotics, Gaming", 
+        "coursefee": "-", 
+        "predict": 77, 
+        "program": "MS in Computer Science", 
+        "sno": 7, 
+        "status": "Submitted", 
+        "university": "University of North Carolina, Charlotte"
+      }, 
+      {
+        "concentration": "Data Science", 
+        "coursefee": "-", 
+        "predict": 87, 
+        "program": "MS in Computer Science", 
+        "sno": 8, 
+        "status": "Awaiting Documents", 
+        "university": "Clemson University"
+      }
+  ]
+}
