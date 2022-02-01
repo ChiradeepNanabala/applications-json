@@ -7,7 +7,7 @@
         "program": "MS in Artificial Intelligence", 
         "sno": 1, 
         "status": "Submitted", 
-        "university": "NorthEastern University"
+        "university": "Northeastern University"
       }, 
       {
         "concentration": "AI/ML", 
@@ -15,7 +15,7 @@
         "predict": 45, 
         "program": "MS in Computer Science", 
         "sno": 2, 
-        "status": "Application Complete", 
+        "status": "Submitted", 
         "university": "University of Florida"
       }, 
       {
@@ -33,7 +33,7 @@
         "predict": 84, 
         "program": "MS in Artificial Intelligence", 
         "sno": 4, 
-        "status": "Departmental Review", 
+        "status": "Under Review", 
         "university": "University at Buffalo"
       }, 
       {
@@ -60,7 +60,7 @@
         "predict": 77, 
         "program": "MS in Computer Science", 
         "sno": 7, 
-        "status": "Review", 
+        "status": "Unver Review", 
         "university": "University of North Carolina, Charlotte"
       }, 
       {
