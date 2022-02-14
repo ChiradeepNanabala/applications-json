@@ -15,7 +15,7 @@
         "predict": 45, 
         "program": "MS in Computer Science", 
         "sno": 2, 
-        "status": "Submitted", 
+        "status": "Pending Review", 
         "university": "University of Florida"
       }, 
       {
@@ -51,7 +51,7 @@
         "predict": 67, 
         "program": "MS in Computer Science", 
         "sno": 6, 
-        "status": "Awaiting Documents", 
+        "status": "Pending Review", 
         "university": "University of Houston"
       }, 
       {
