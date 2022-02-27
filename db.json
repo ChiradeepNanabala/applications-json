@@ -80,6 +80,24 @@
         "sno": 9, 
         "status": "Submitted", 
         "university": "University of Texas at Arlington"
+      },
+      {
+        "concentration": "-", 
+        "coursefee": "-", 
+        "predict": -1, 
+        "program": "MS in Computer Science", 
+        "sno": 10, 
+        "status": "Awaiting Documents", 
+        "university": "Syracuse University"
+      },
+      {
+        "concentration": "-", 
+        "coursefee": "-", 
+        "predict": -1, 
+        "program": "MS in Computer Science", 
+        "sno": 11, 
+        "status": "Awaiting Documents", 
+        "university": "Florida State University"
       }
   ]
 }
