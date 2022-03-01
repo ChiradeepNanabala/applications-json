@@ -1,114 +1,114 @@
 {
-  "applicationsList": [
-      {
-        "concentration": "-", 
-        "coursefee": "-", 
-        "ranking": 49,
-        "predict": 60, 
-        "program": "MS in Artificial Intelligence", 
-        "sno": 1, 
-        "status": "Reject", 
-        "university": "Northeastern University"
-      }, 
-      {
-        "concentration": "AI/ML", 
-        "coursefee": "-", 
-        "ranking": 49,
-        "predict": 45, 
-        "program": "MS in Computer Science", 
-        "sno": 2, 
-        "status": "Pending Review", 
-        "university": "University of Florida"
-      },       
-      {
-        "concentration": "-", 
-        "coursefee": "-", 
-        "predict": 84, 
-        "ranking": 61,
-        "program": "MS in Artificial Intelligence", 
-        "sno": 4, 
-        "status": "Under Review", 
-        "university": "University at Buffalo"
-      }, 
-      {
-        "concentration": "Intelligent Systems", 
-        "coursefee": "-", 
-        "predict": 57, 
-        "ranking": 64,
-        "program": "MS in Computer Science", 
-        "sno": 3, 
-        "status": "Application Complete", 
-        "university": "University of Texas at Dallas"
-      },
-      {
-        "concentration": "-", 
-        "coursefee": "-", 
-        "predict": -1, 
-        "ranking": 68,
-        "program": "MS in Computer Science", 
-        "sno": 10, 
-        "status": "Admit", 
-        "university": "Syracuse University"
-      }
-      {
-        "concentration": "Data Science", 
-        "coursefee": "-", 
-        "predict": 87, 
-        "ranking": 82,
-        "program": "MS in Computer Science", 
-        "sno": 8, 
-        "status": "Admit", 
-        "university": "Clemson University"
-      },
-      {
-        "concentration": "-", 
-        "coursefee": "-", 
-        "predict": -1, 
-        "ranking": 82,
-        "program": "MS in Computer Science", 
-        "sno": 11, 
-        "status": "Awaiting Documents", 
-        "university": "Florida State University"
-      },
-      {
-        "concentration": "AI, Robotics, Gaming", 
-        "coursefee": "-", 
-        "predict": 77, 
-        "ranking": 91,
-        "program": "MS in Computer Science", 
-        "sno": 7, 
-        "status": "Under Review", 
-        "university": "University of North Carolina, Charlotte"
-      },
-      {
-        "concentration": "Intelligent Systems and Robotics", 
-        "coursefee": "-", 
-        "predict": -1, 
-        "ranking": 91,
-        "program": "MS in Computer Science", 
-        "sno": 9, 
-        "status": "Submitted", 
-        "university": "University of Texas at Arlington"
-      },
-      {
-        "concentration": "Data Analytics", 
-        "coursefee": "-", 
-        "predict": 67, 
-        "ranking": 102,
-        "program": "MS in Computer Science", 
-        "sno": 6, 
-        "status": "Pending Review", 
-        "university": "University of Houston"
-      }, 
-      {
-        "concentration": "-", 
-        "coursefee": "-", 
-        "predict": 45, 
-        "ranking": 102,
-        "program": "MS in Computer Science", 
-        "sno": 5, 
-        "status": "Under Review", 
-        "university": "University of South Florida"
-      }
-  ]
+    "applicationsList": [
+        {
+            "concentration": "-",
+            "coursefee": "-",
+            "ranking": 49,
+            "predict": 60,
+            "program": "MS in Artificial Intelligence",
+            "sno": 1,
+            "status": "Reject",
+            "university": "Northeastern University"
+        },
+        {
+            "concentration": "AI/ML",
+            "coursefee": "-",
+            "ranking": 49,
+            "predict": 45,
+            "program": "MS in Computer Science",
+            "sno": 2,
+            "status": "Pending Review",
+            "university": "University of Florida"
+        },
+        {
+            "concentration": "-",
+            "coursefee": "-",
+            "predict": 84,
+            "ranking": 61,
+            "program": "MS in Artificial Intelligence",
+            "sno": 3,
+            "status": "Under Review",
+            "university": "University at Buffalo"
+        },
+        {
+            "concentration": "Intelligent Systems",
+            "coursefee": "-",
+            "predict": 57,
+            "ranking": 64,
+            "program": "MS in Computer Science",
+            "sno": 4,
+            "status": "Application Complete",
+            "university": "University of Texas at Dallas"
+        },
+        {
+            "concentration": "-",
+            "coursefee": "-",
+            "predict": -1,
+            "ranking": 68,
+            "program": "MS in Computer Science",
+            "sno": 5,
+            "status": "Admit",
+            "university": "Syracuse University"
+        },
+        {
+            "concentration": "Data Science",
+            "coursefee": "-",
+            "predict": 87,
+            "ranking": 82,
+            "program": "MS in Computer Science",
+            "sno": 6,
+            "status": "Admit",
+            "university": "Clemson University"
+        },
+        {
+            "concentration": "-",
+            "coursefee": "-",
+            "predict": -1,
+            "ranking": 82,
+            "program": "MS in Computer Science",
+            "sno": 7,
+            "status": "Awaiting Documents",
+            "university": "Florida State University"
+        },
+        {
+            "concentration": "AI, Robotics, Gaming",
+            "coursefee": "-",
+            "predict": 77,
+            "ranking": 91,
+            "program": "MS in Computer Science",
+            "sno": 8,
+            "status": "Under Review",
+            "university": "University of North Carolina, Charlotte"
+        },
+        {
+            "concentration": "Intelligent Systems and Robotics",
+            "coursefee": "-",
+            "predict": -1,
+            "ranking": 91,
+            "program": "MS in Computer Science",
+            "sno": 9,
+            "status": "Submitted",
+            "university": "University of Texas at Arlington"
+        },
+        {
+            "concentration": "Data Analytics",
+            "coursefee": "-",
+            "predict": 67,
+            "ranking": 102,
+            "program": "MS in Computer Science",
+            "sno": 10,
+            "status": "Pending Review",
+            "university": "University of Houston"
+        },
+        {
+            "concentration": "-",
+            "coursefee": "-",
+            "predict": 45,
+            "ranking": 102,
+            "program": "MS in Computer Science",
+            "sno": 11,
+            "status": "Under Review",
+            "university": "University of South Florida"
+        }
+    ]
 }
