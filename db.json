@@ -67,7 +67,7 @@
             "ranking": 82,
             "program": "MS in Computer Science",
             "sno": 7,
-            "status": "Awaiting Documents",
+            "status": "Under Review",
             "university": "Florida State University"
         },
         {
@@ -97,7 +97,7 @@
             "ranking": 102,
             "program": "MS in Computer Science",
             "sno": 10,
-            "status": "Pending Review",
+            "status": "Application Complete",
             "university": "University of Houston"
         },
         {
