@@ -27,7 +27,7 @@
             "ranking": 61,
             "program": "MS in Artificial Intelligence",
             "sno": 3,
-            "status": "Under Review",
+            "status": "Admit",
             "university": "University at Buffalo"
         },
         {
@@ -107,7 +107,7 @@
             "ranking": 102,
             "program": "MS in Computer Science",
             "sno": 11,
-            "status": "Under Review",
+            "status": "Admit",
             "university": "University of South Florida"
         }
     ]
